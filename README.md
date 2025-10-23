@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Maddie! 👋
+Cybersecurity Grad
 
-<!--
-**mweddle07/mweddle07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech: Python ⭐ C++ ⭐ HTML/CSS ⭐ Linux
 
-Here are some ideas to get you started:
+Certs: Meta BackEnd ⭐ Microsoft Office Word and Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests: Reading ⭐ My dog ⭐ Coding ⭐ Gym
+
+LinkedIn: mweddle07 
+
+![Python](https://img.shields.io/badge/Python-FF69B4?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-violet?logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Books](https://img.shields.io/badge/Books-pink?logo=bookstack&logoColor=white)
+
+
